@@ -10,3 +10,4 @@
 * https://tfl.taleo.net/careersection/external/jobsearch.ftl?lang=en, TfL Transport Planning, Strategic Modelling and Analysis, Stratford
 * https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1717855 , Defence School of Geospatial Intelligence
 * https://jobs.nationalgrid.com/ Senior Solution Architect Geospatial
+* https://www.myjobscotland.gov.uk/councils/renfrewshire-council/jobs/gis-data-and-research-analyst-permanent-226601 , Renfrewshire Council, Data Analytics and Research Team 
