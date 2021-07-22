@@ -14,3 +14,5 @@
 * https://www.myjobscotland.gov.uk/councils/renfrewshire-council/jobs/gis-data-and-research-analyst-permanent-226601 , Renfrewshire Council, Data Analytics and Research Team
 * http://www.templegroup.co.uk , London / Manchester 
 * https://jobsatmolevalley.co.uk/job/gis-and-planning-data-officer , Mole Valley
+* https://mgiss.co.uk/ , Liverpool
+* https://shef.ac.uk , Department of Urban Studies and Planning
