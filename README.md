@@ -6,6 +6,8 @@
 * https://jobs.aecom.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=20052&siteid=5022&Areq=251602BR#jobDetails=1471030_5022, AECOM Glasgow
 * https://blackhallpowis.com/
 * ESRI
+* https://landuse.co.uk/ Bristol, Manchester, Edinburgh or Glasgow
+* https://www.scottishwoodlands.co.uk/
 
 # Other / remote
 * https://www.tetratech.com/ , Lake District
@@ -24,3 +26,5 @@
 * Arup
 * https://www.costain.com/ , Home based, Manchester or Birmingham
 * vu.city , London
+* Warwickshire council , https://www.wmjobs.co.uk/
+* RSPB , remote/flex
