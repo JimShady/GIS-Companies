@@ -7,7 +7,8 @@
 * https://blackhallpowis.com/
 * ESRI
 * https://landuse.co.uk/ Bristol, Manchester, Edinburgh or Glasgow
-* https://www.scottishwoodlands.co.uk/
+* https://www.scottishwoodlands.co.uk
+* https://atmosconsulting.com/
 
 # Other / remote
 * https://www.tetratech.com/ , Lake District
