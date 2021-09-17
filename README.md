@@ -22,3 +22,5 @@
 * https://www.tep.uk.com/
 * HTTPS://1spatial.com , Oxford
 * Arup
+* https://www.costain.com/ , Home based, Manchester or Birmingham
+* vu.city , London
