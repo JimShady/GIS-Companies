@@ -32,3 +32,6 @@
 * https://careers.cityoflondon.gov.uk/
 * https://www.linkedin.com/company/bruton-knowles/life/life-at-bruton-knowles/ , Gloucestershire
 * https://newgrove.com/ , London but allow remote
+* https://templegroup.co.uk/our-people/careers/ , London or Manchester
+* https://www.slrconsulting.com/careers , Manchester, Bristol, Nottingham or Worcester 
+* https://www.rpsgroup.com/
