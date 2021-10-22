@@ -12,7 +12,7 @@
 
 # Other / remote
 * https://www.tetratech.com/ , Lake District
-* https://www.costain.com/, Manchester
+* https://www.costain.com/, Manchester, London
 * https://tfl.taleo.net/careersection/external/jobsearch.ftl?lang=en, TfL Transport Planning, Strategic Modelling and Analysis, Stratford
 * https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1717855 , Defence School of Geospatial Intelligence
 * https://jobs.nationalgrid.com/ Senior Solution Architect Geospatial
@@ -35,3 +35,7 @@
 * https://templegroup.co.uk/our-people/careers/ , London or Manchester
 * https://www.slrconsulting.com/careers , Manchester, Bristol, Nottingham or Worcester 
 * https://www.rpsgroup.com/
+* https://www.compassinformatics.com/careers/ , remote / Ireland / various
+* Geospatial Data Analyst (Digital Connectivity) within the Scottish Government Digital Connectivity Division based in Glasgow
+* National Grid, Wokingham, Tech Lead, Architect - Geospatial Platform
+* RSK Biocensus , various UK wide, https://rsk.current-vacancies.com/Careers/RSK-vacancy-search-page-1877
