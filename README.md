@@ -1,4 +1,4 @@
-# EdinburghGIS
+# Edinburgh
 
 * https://www.galbraithgroup.com/
 * https://sparkgeo.com/
@@ -39,3 +39,9 @@
 * Geospatial Data Analyst (Digital Connectivity) within the Scottish Government Digital Connectivity Division based in Glasgow
 * National Grid, Wokingham, Tech Lead, Architect - Geospatial Platform
 * RSK Biocensus , various UK wide, https://rsk.current-vacancies.com/Careers/RSK-vacancy-search-page-1877
+* https://www.caci.co.uk/ , Various
+* https://itoworld.bamboohr.com/jobs/view.php?id=59 ITO World, London
+* https://www.hrwallingford.com/ , Flood GIS, Wallingford
+* https://careers.nationaltrust.org.uk/OA_HTML/a/#/vacancies, National Trust
+* https://www.idoxgroup.com/careers/
+* Loch Lomond and The Trossachs National Park Authority
