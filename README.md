@@ -9,6 +9,8 @@
 * https://landuse.co.uk/ Bristol, Manchester, Edinburgh or Glasgow
 * https://www.scottishwoodlands.co.uk
 * https://atmosconsulting.com/
+* Idox Software , Glasgow, Hillsborough, Theale or Home Based
+* Technical Lead / Lead Cloud Engineer for Scottish GOV, Glasgow
 
 # Other / remote
 * https://www.tetratech.com/ , Lake District
@@ -45,3 +47,5 @@
 * https://careers.nationaltrust.org.uk/OA_HTML/a/#/vacancies, National Trust
 * https://www.idoxgroup.com/careers/
 * Loch Lomond and The Trossachs National Park Authority
+* helyx.co.uk , Twyning, Gloucestershire
+* https://www.tetratecheurope.com/ , Southampton
