@@ -11,6 +11,7 @@
 * https://atmosconsulting.com/
 * Idox Software , Glasgow, Hillsborough, Theale or Home Based
 * Technical Lead / Lead Cloud Engineer for Scottish GOV, Glasgow
+* Information Support Officer (GIS) at Angus Council
 
 # Other / remote
 * https://www.tetratech.com/ , Lake District
@@ -32,6 +33,8 @@
 * Warwickshire council , https://www.wmjobs.co.uk/
 * RSPB , remote/flex
 * https://careers.cityoflondon.gov.uk/
+* https://www.tep.uk.com/job/gis-spatial-developer/
+* Head of Roads GIS Data - Department for Transport
 * https://www.linkedin.com/company/bruton-knowles/life/life-at-bruton-knowles/ , Gloucestershire
 * https://newgrove.com/ , London but allow remote
 * https://templegroup.co.uk/our-people/careers/ , London or Manchester
@@ -49,3 +52,6 @@
 * Loch Lomond and The Trossachs National Park Authority
 * helyx.co.uk , Twyning, Gloucestershire
 * https://www.tetratecheurope.com/ , Southampton
+* ABPmer , Southampton https://www.abpmer.co.uk/careers-overview/gis-analyst/?utm_source=GIS-JOBS
+* Hertfordshire County Council, Hertford
+* GIS Analyst , https://www.wmca.org.uk/careers/ West Mids
