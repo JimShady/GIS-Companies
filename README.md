@@ -55,3 +55,10 @@
 * ABPmer , Southampton https://www.abpmer.co.uk/careers-overview/gis-analyst/?utm_source=GIS-JOBS
 * Hertfordshire County Council, Hertford
 * GIS Analyst , https://www.wmca.org.uk/careers/ West Mids
+* Spatial Application Specialist, Telford and Wrekin Council
+* IT Officer (GIS), Yorkshire Dales National Park
+* GIS Specialist, Intertek Energy & Water Consultancy Services
+* The Paladium Group, Senior Associate, Spatial and Carbon Impact Data
+* UK CEH, senior spatial data analyst / developer
+* GIS Analyst Role, Skanska UK
+* GIS and Database Officer, Nature.scot
