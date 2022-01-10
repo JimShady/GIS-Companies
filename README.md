@@ -62,3 +62,4 @@
 * UK CEH, senior spatial data analyst / developer
 * GIS Analyst Role, Skanska UK
 * GIS and Database Officer, Nature.scot
+* Geospatial Technical Specialist - Sellafield Ltd
