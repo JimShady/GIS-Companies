@@ -63,3 +63,7 @@
 * GIS Analyst Role, Skanska UK
 * GIS and Database Officer, Nature.scot
 * Geospatial Technical Specialist - Sellafield Ltd
+* Health and Safety Executive (HSE), GIS Scientist
+* xegesis Spatial Data Management , Brecon Beacons, Conservation Management System Consultant
+* Carter Jonas, various locations, https://www.carterjonas.co.uk/careers/gis-developer-birmingham-467601
+* Halfords
