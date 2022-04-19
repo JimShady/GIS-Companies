@@ -67,3 +67,5 @@
 * xegesis Spatial Data Management , Brecon Beacons, Conservation Management System Consultant
 * Carter Jonas, various locations, https://www.carterjonas.co.uk/careers/gis-developer-birmingham-467601
 * Halfords
+* ARcadis https://careers.arcadis.com/job/2701/Senior-GIS-Data-Visualization-Consultant
+* Daclour Maclaren https://www.careers.dalcourmaclaren.com/jobs/senior-gis-specialist
