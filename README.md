@@ -12,6 +12,7 @@
 * Idox Software , Glasgow, Hillsborough, Theale or Home Based
 * Technical Lead / Lead Cloud Engineer for Scottish GOV, Glasgow
 * Information Support Officer (GIS) at Angus Council
+* east-dunbartonshire-council , GIS Coordinator, https://www.myjobscotland.gov.uk/councils/east-dunbartonshire-council/jobs/gis-co-ordinatorgazetteer-281807 
 
 # Other / remote
 * https://www.tetratech.com/ , Lake District
