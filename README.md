@@ -72,3 +72,4 @@
 * Daclour Maclaren https://www.careers.dalcourmaclaren.com/jobs/senior-gis-specialist
 * ABPMer https://www.abpmer.co.uk/careers-overview/gis-analyst/
 * https://dalcourmaclaren.wd3.myworkdayjobs.com/en-US/Dalcour-Maclaren-Careers
+* https://www.landuse.co.uk/
