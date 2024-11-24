@@ -67,9 +67,11 @@
 * Health and Safety Executive (HSE), GIS Scientist
 * xegesis Spatial Data Management , Brecon Beacons, Conservation Management System Consultant
 * Carter Jonas, various locations, https://www.carterjonas.co.uk/careers/gis-developer-birmingham-467601
+* LUC, Manchester, Sheffield, 
 * Halfords
 * ARcadis https://careers.arcadis.com/job/2701/Senior-GIS-Data-Visualization-Consultant
 * Daclour Maclaren https://www.careers.dalcourmaclaren.com/jobs/senior-gis-specialist
 * ABPMer https://www.abpmer.co.uk/careers-overview/gis-analyst/
 * https://dalcourmaclaren.wd3.myworkdayjobs.com/en-US/Dalcour-Maclaren-Careers
-* https://www.landuse.co.uk/
+* https://www.landuse.co.uk/, Bristol, Cardiff, Manchester, Sheffield, Edinburgh or Glasgow
+* 
